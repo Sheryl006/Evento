@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "131754131840",
+    "project_id": "evento2-cabbf",
+    "storage_bucket": "evento2-cabbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131754131840:android:c1a411b351f92bee638165",
+        "android_client_info": {
+          "package_name": "com.example.evento"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOYpN-QLPH5qT24Q8zDup1_6cI74NkUcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
